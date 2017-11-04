@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "shopName" : "店铺名称1",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 100.00,
+          "minQuantity": 2,
+          "maxQuantity": 10,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 110.00,
+          "minQuantity": 1,
+          "maxQuantity": 20,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 120.00,
+          "minQuantity": 5,
+          "maxQuantity": 30,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 130.00,
+          "minQuantity": 2,
+          "maxQuantity": 40,
+          "itemDes": "这个测试商品"
+        }
+      ]
+    },
+    {
+      "shopName" : "店铺名称2",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 140.00,
+          "minQuantity": 2,
+          "maxQuantity": 5,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 150.00,
+          "minQuantity": 10,
+          "maxQuantity": 15,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 160.00,
+          "minQuantity": 20,
+          "maxQuantity": 22,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 170.00,
+          "minQuantity": 2,
+          "maxQuantity": 24,
+          "itemDes": "这个测试商品"
+        }
+      ]
+    },
+    {
+      "shopName" : "店铺名称3",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 180.00,
+          "minQuantity": 2,
+          "maxQuantity": 6,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 100.00,
+          "minQuantity": 2,
+          "maxQuantity": 8,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 100.00,
+          "minQuantity": 2,
+          "maxQuantity": 10,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 100.00,
+          "minQuantity": 2,
+          "maxQuantity": 100,
+          "itemDes": "这个测试商品"
+        }
+      ]
+    },
+    {
+      "shopName" : "店铺名称4",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 100.00,
+          "minQuantity": 1,
+          "maxQuantity": 3,
+          "itemDes": "这个测试商品"
+        },
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 100.00,
+          "minQuantity": 3,
+          "maxQuantity": 9,
+          "itemDes": "这个测试商品"
+        }
+      ]
+    },
+    {
+      "shopName" : "店铺名称5",
+      "shopId" : "0001",
+      "shopItems": [
+        {
+          "itemName": "商品一",
+          "itemId": "10001",
+          "itemimg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+          "itemPrice": 100.00,
+          "minQuantity": 1,
+          "maxQuantity": 20,
+          "itemDes": "这个测试商品"
+        }
+      ]
+    }
+  ]
+}
