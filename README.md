@@ -6,7 +6,7 @@
 
 # 先看下GIF效果图
 
-<iframe height=500 width=500 src="http://g.recordit.co/x4jbmiIOe5.gif">
+![gif](http://ovyjkveav.bkt.clouddn.com/17-11-6/51875934.jpg)
 
 # 来聊聊这个购物车包含哪些逻辑
 
@@ -18,7 +18,6 @@
 * 支持实时计算选中商品的总金额和总数量
 
 # 项目介绍[http://www.jianshu.com/p/afd6ea5f9f09](http://www.jianshu.com/p/afd6ea5f9f09)
-
 
 # 总结
 > 虽然购物车的逻辑确实有点多，需要处理的事件也多，但是只要同学们控制好每一个事件对应的状态，管理好整个状态机和刷新机制，应该也能写好一个完美的购物车功能。同学们要是觉得项目对你有帮助请给个 **`star`**
