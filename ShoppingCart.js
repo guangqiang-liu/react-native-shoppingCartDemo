@@ -1,6 +1,11 @@
 /**
- * Created by guangqiang on 2017/11/3.
+ * ShoppingCartDemo
+ * 作者Git：https://github.com/guangqiang-liu
+ * 技术交流群：620792950
+ * 作者QQ：1126756952
+ * Created by guangqiang on 2017/11/5.
  */
+
 import React, {Component} from 'react'
 import {View, Text, TouchableOpacity, Image, StyleSheet, SectionList} from 'react-native'
 import {commonStyle} from './commonStyle'
@@ -61,10 +66,8 @@ export default class ShoppingCart extends Component {
       }
     }
 
-    // 判断isSelectedAll的状态
     tempShop.checked = isSelectedAllShopItem
 
-    // 判断是不是所有店铺全部选中
     let isSelectedAllShop = true
     for (let k = 0; k < tempStatus.length; k ++) {
       let shop = tempStatus[k]
@@ -88,7 +91,6 @@ export default class ShoppingCart extends Component {
       item.checked = shop.checked
     }
 
-    // 判断是否选中所有的店铺
     let isSelectedAllShop = true
     for (let j = 0; j < tempStatus.length; j++) {
       let shop = tempStatus[j]
